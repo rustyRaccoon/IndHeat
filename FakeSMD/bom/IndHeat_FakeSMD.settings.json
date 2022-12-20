@@ -1,0 +1,44 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "IndHeat_FakeSMD",
+        "revision": "",
+        "company": "",
+        "date": "2022-05-18 20:16:13"
+    },
+    "settings": {
+        "canvaslayout": "FB",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "28,8,22,18,2,26,25,23,19,30,16,0,20,4,9,6,1,5,10,14",
+            "Placed": "28,8,22,18,2,26,25,23,19,30,16,0,20,4,9,6,1,5,10,14"
+        },
+        "darkMode": true,
+        "highlightpin1": false,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "columnOrder": [
+            "checkboxes",
+            "References",
+            "Value",
+            "Footprint",
+            "Quantity"
+        ],
+        "hiddenColumns": [],
+        "markWhenChecked": "Placed"
+    }
+}
